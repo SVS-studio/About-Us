@@ -23,7 +23,7 @@ SVS jamoasi quyidagi yo'nalishlarda yetakchi yechimlarni taklif etadi:
 3.  **Virtual Ecosystems:** Bizneslar uchun xavfsiz va aqlli bulutli boshqaruv tizimlarini ishlab chiqish.
 
 ### 📈 Bizning Yo'limiz
-SVS kichik startap sifatida boshlanib, bugungi kunda minglab foydalanuvchilarga xizmat ko'rsatadigan **Smart Virtual System** ekotizimiga aylandi. Biz faqat kod yozmaymiz, biz kelajakning raqamli arxitekturasini quramiz.
+SVS kichik startap sifatida boshlanib, **Smart Virtual System** Biz faqat kod yozmaymiz, biz kelajakning raqamli arxitekturasini quramiz.
 
 ---
 #### 🌍 SVS bilan kelajak hozirdan boshlanadi.
