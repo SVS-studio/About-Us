@@ -1,49 +1,30 @@
-# <img src="https://raw.githubusercontent.com/SVS-Smart-Virtual-System/assets/main/logo.png" width="40" height="40" /> SVS — Smart Virtual System
+## 🏛 Biz haqimizda
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=6366F1&height=200&section=header&text=Smart%20Virtual%20System&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
-  
-  [![Website](https://img.shields.io/badge/Website-SVS--AI-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://svsslideai.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-SVS_System-0EA5E9?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/svs-system)
-  [![Telegram](https://img.shields.io/badge/Telegram-SVS_Official-10B981?style=for-the-badge&logo=telegram)](https://t.me/svs_official)
-</div>
-
-### 🚀 Biz Haqimizda
-**Smart Virtual System (SVS)** — sun'iy intellekt va avtomatlashtirilgan virtual tizimlar sohasida innovatsion yechimlar yaratuvchi texnologik kompaniya. Bizning maqsadimiz — murakkab biznes jarayonlarini aqlli algoritmlar orqali soddalashtirish va foydalanuvchi tajribasini (UX) yangi bosqichga olib chiqish.
+**Smart Virtual System (SVS)** — raqamli transformatsiya va sun'iy intellekt (AI) sohasida yangi standartlarni belgilovchi texnologik ekotizimdir. Biz murakkab texnologiyalarni insonlar uchun sodda, tushunarli va samarali vositalarga aylantiramiz.
 
 
 
-### 🛠 Texnologik Ecosystem
-Biz eng so'nggi texnologiyalar bilan ishlaymiz:
+### 🎯 Bizning Missiyamiz
+Bizning missiyamiz — **"Aqlli Virtualizatsiya"** orqali biznes va shaxsiy mahsuldorlikni yangi bosqichga olib chiqish. Biz yaratayotgan har bir mahsulot, jumladan **SVS Slide AI**, foydalanuvchilarning vaqtini tejashga va ijodiy salohiyatini oshirishga xizmat qiladi.
 
-| Yo'nalish | Texnologiyalar |
-| :--- | :--- |
-| **Artificial Intelligence** | OpenAI GPT-4o, Computer Vision, NLP, Neural Networks |
-| **Frontend Engineering** | React.js, Vue 3, Tailwind CSS, Framer Motion |
-| **Backend & Scalability** | Python (FastAPI/Django), Node.js (NestJS), Go |
-| **Cloud & DevOps** | AWS, Docker, Kubernetes, GitHub Actions |
+### 💎 Bizning Qadriyatlarimiz
 
+* **Innovatsiya (Primary Indigo):** Biz doimo mavjud yechimlardan yaxshiroq va tezrog'ini qidiramiz.
+* **Soddalik (Secondary Cyan):** Eng murakkab algoritmlarimiz ortida ham foydalanuvchi uchun qulay interfeys turadi.
+* **Samaradorlik (Success Emerald):** Natija biz uchun eng asosiy mezon. Biz vaqtni eng qimmatli resurs deb bilamiz.
 
 
-### 🎨 Brand Identifikatorimiz
-Interfeyslarimizda qo'llaniladigan asosiy neon ranglar:
-- 🟦 **Primary Indigo (`#6366F1`):** Tizim barqarorligi va professional ishonch.
-- 💎 **Secondary Cyan (`#0EA5E9`):** Virtualizatsiya va futuristik dizayn.
-- 🟩 **Success Emerald (`#10B981`):** Ekologik toza va yuqori samarali natija.
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SVS-Smart-Virtual-System&show_icons=true&theme=tokyonight&bg_color=0B0F1A&title_color=6366F1&text_color=94A3B8&icon_color=10B981&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVS-Smart-Virtual-System&layout=compact&theme=tokyonight&bg_color=0B0F1A&title_color=0EA5E9&text_color=94A3B8&hide_border=true" height="180em" />
-</div>
+### 🛠 Biz nima bilan shug'ullanamiz?
+SVS jamoasi quyidagi yo'nalishlarda yetakchi yechimlarni taklif etadi:
 
-### 🤝 Biz bilan bog'laning
-Kompaniyamiz hamkorlik va yangi g'oyalar uchun doimo ochiq.
-- 📧 **Biznes so'rovlar:** `info@svs-system.com`
-- 💼 **Vakansiyalar:** `hr@svs-system.com`
-- 🌍 **Rasmiy sayt:** [www.svsslideai.com](https://svsslideai.com)
+1.  **AI Content Generation:** Matn va ma'lumotlarni vizual shaklga (slaydlar, infografikalar) o'tkazish.
+2.  **Smart Automation:** Kundalik takrorlanuvchi vazifalarni virtual assistentlar orqali avtomatlashtirish.
+3.  **Virtual Ecosystems:** Bizneslar uchun xavfsiz va aqlli bulutli boshqaruv tizimlarini ishlab chiqish.
+
+### 📈 Bizning Yo'limiz
+SVS kichik startap sifatida boshlanib, bugungi kunda minglab foydalanuvchilarga xizmat ko'rsatadigan **Smart Virtual System** ekotizimiga aylandi. Biz faqat kod yozmaymiz, biz kelajakning raqamli arxitekturasini quramiz.
 
 ---
-<div align="center">
-  <sub>© 2025 SVS — Smart Virtual System. Kelajakni biz bilan quring.</sub>
-</div>
+#### 🌍 SVS bilan kelajak hozirdan boshlanadi.
+[Rasmiy Saytimiz](https://svsslideai.com) | [Telegram](https://t.me/svs_official) | [LinkedIn](https://linkedin.com/company/svs-system)
