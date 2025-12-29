@@ -27,4 +27,4 @@ SVS kichik startap sifatida boshlanib, bugungi kunda minglab foydalanuvchilarga 
 
 ---
 #### 🌍 SVS bilan kelajak hozirdan boshlanadi.
-[Rasmiy Saytimiz](https://svsslideai.com) | [Telegram](https://t.me/svs_official) | [LinkedIn](https://linkedin.com/company/svs-system)
+[Telegram](https://t.me/svs_Startup) | [YouTube](https://www.youtube.com/@SVS_Studios) | [Taklif va report](https://t.me/SVS_OWNER)
